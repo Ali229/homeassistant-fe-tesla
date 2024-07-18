@@ -20,7 +20,7 @@ cards:
               entity: sensor.batmobile_range
               style:
                 top: 7.2%
-                left: 22%
+                left: 19%
                 font-weight: bold
                 font-size: 100%
                 color: '#8a8a8d'
