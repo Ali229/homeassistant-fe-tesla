@@ -261,11 +261,12 @@ cards:
                 - type: state-label
                   entity: sensor.batmobile_temperature_inside
                   style:
-                    top: 94.44%
-                    left: 30.3%
-                    font-size: 97%
+                    top: 93.2%
+                    left: 29%
+                    font-size: 94%
                     color: '#8a8a8d'
                     font-family: gotham
+                    font-weight: bold
             - type: conditional
               conditions:
                 - entity: binary_sensor.batmobile_ischarging
